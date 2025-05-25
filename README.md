@@ -1,11 +1,12 @@
 <details open>
 <summary><h2>🎸 osu！</h2></summary>
-<a href="https://osu.ppy.sh/u/2heep"><img src="https://osu-sig.vercel.app/card?user=2heep&mode=mania&animation=true" /></a>
+<a href="https://osu.ppy.sh/u/2heep"><img src="https://osu-sig.vercel.app/card?user=2heep&amp;mode=mania&amp;animation=true" />
+</a>
 </details>
 
 <details open>
 <summary><h2>🕹️ steam</h2></summary>
-<img src="https://osu-sig.vercel.app/card?user=2heep&amp;mode=mania&amp;animation=true" />
+<img width="400" height="140" src="https://card.yuy1n.io/card/76561198827432113/radical,en,badge,group,bg-game">
 </details>
 
 <details open>

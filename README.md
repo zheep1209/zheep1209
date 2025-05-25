@@ -6,7 +6,7 @@
 
 <details open>
 <summary><h2>🕹️ steam</h2></summary>
-<img width="400" height="140" src="https://card.yuy1n.io/card/76561198827432113/radical,en,badge,group,bg-game">
+<img width="400" height="140" src="https://cardn.yuy1n.io/card/76561198827432113/radical,en,badge,group,bg-game" />
 </details>
 
 <details open>

@@ -6,6 +6,7 @@
 <details open>
 <summary><h2>🕹️ steam</h2></summary>
 <a href="https://steamcommunity.com/id/SaigyoujiZheep/"><img src="https://img.picui.cn/free/2025/05/25/68332991ed992.png" /></a>
+</details>
 <details open>
 <summary><h2>🔥 持续天数</h2></summary>
 <img src="https://streak-stats.demolab.com?user=zheep1209&theme=dracula&locale=zh_Hans" alt="GitHub Streak" />
